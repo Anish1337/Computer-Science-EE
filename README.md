@@ -1,5 +1,5 @@
 # Computer Science EE 
-* As part of our high school IB Diploma program in 2019, students were requied to choose a topic to research and write about. I chose to write a 3655 word analysis on activation functions in convolutional neural networks as part of my IB Diploma. While difficult, I learned a lot abot python, tensorflow, and the basics of CNN's. 
+* As part of our high school IB Diploma program in 2019, students were requied to choose a topic to research and write about. I chose to write a 25-page, 3655-word analysis on activation functions in convolutional neural networks as part of my IB Diploma. While difficult, I learned a lot abot python, tensorflow, and the basics of CNN's. 
 
 ### Research Question: 
 > To what extent can certain activation functions produce more accurate predictions of handwritten digits in a convolutional neural network?
