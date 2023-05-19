@@ -7,7 +7,7 @@
 > To what extent can certain activation functions produce more accurate predictions of handwritten digits in a convolutional neural network?
 
 ### Format
-* The final EE is posted as a pdf in this repository, the code can no longer/tensorflow experiments cannot be found, but screenshots were included in the appendix section of the EE.
+* The final EE is posted as a pdf in this repository, the code/tensorflow experiments can no longer cannot be found, but screenshots were included in the appendix section.
 
 
 
